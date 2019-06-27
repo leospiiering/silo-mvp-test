@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">silos</string>
+
+    <string name="title_home">Day</string>
+    <string name="title_silo">Silos</string>
+    <string name="title_aside">Grãos</string>
+</resources>
